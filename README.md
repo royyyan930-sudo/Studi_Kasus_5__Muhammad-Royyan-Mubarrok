@@ -50,7 +50,7 @@ Hasilnya disimpan ke dalam total_biaya.
 
 Bagian ini menampilkan data pemesanan dan total biaya kepada pengguna.
 
-Tampilan Output kamar Stamdar
+Tampilan Output kamar Standar
 
 <img width="348" height="99" alt="Screenshot 2026-09-22 213538" src="https://github.com/user-attachments/assets/0c84b2cb-24b4-412b-850c-621daa102675" />
 
