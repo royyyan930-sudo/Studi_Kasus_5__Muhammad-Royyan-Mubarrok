@@ -52,9 +52,10 @@ Bagian ini menampilkan data pemesanan dan total biaya kepada pengguna.
 
 Tampilan Output kamar Stamdar
 
-<img width="353" height="89" alt="Screenshot 2026-09-22 201247" src="https://github.com/user-attachments/assets/cf83260d-4c02-4882-b2e1-50e44bf74237" />
+<img width="348" height="99" alt="Screenshot 2026-09-22 213538" src="https://github.com/user-attachments/assets/0c84b2cb-24b4-412b-850c-621daa102675" />
 
 Tampilan Output Kamar Deluxe
 
-<img width="277" height="124" alt="Screenshot 2026-09-22 201322" src="https://github.com/user-attachments/assets/d15e327d-7b4b-4ca6-a35b-521eab361b0e" />
+<img width="317" height="97" alt="Screenshot 2026-09-22 213606" src="https://github.com/user-attachments/assets/3c367832-9084-4b25-a126-97359ddf7d91" />
+
 
